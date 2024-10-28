@@ -9,7 +9,7 @@ Alternative installation is possible without local dependencies relying on [Dock
 Clone the repository
 
 ```bash
-git clone https://github.com/zaidanriski/todo-and-monitoring-task.git
+git clone https://github.com/richardlibrata/todo-project.git
 ```
 
 Switch to the repo folder
