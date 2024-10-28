@@ -15,7 +15,7 @@ git clone https://github.com/richardlibrata/todo-project.git
 Switch to the repo folder
 
 ```bash
-cd todo-and-monitoring-task
+cd [your target folder]
 ```
 
 Install all the dependencies using composer
